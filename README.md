@@ -89,7 +89,10 @@ The system continuously captures, fuses, and relays environmental, spatial, and 
 ### Videos
 
 <video controls width="100%">
-<source src="/assets/video/myosa-subsurface-monitor-demo.mp4" type="video/mp4">
+<source src="/assets/video/local.mp4" type="video/mp4">
+</video>
+<video controls width="100%">
+<source src="/assets/video/presentation.mp4" type="video/mp4">
 </video>
 
 ---
