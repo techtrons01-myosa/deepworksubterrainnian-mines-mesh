@@ -77,7 +77,7 @@ The system continuously captures, fuses, and relays environmental, spatial, and 
 </p>
 
 <p align="center">
-<img src="/assets/images/myosa_subsurface_monitor/myosa-wearable-hardware.jpg" width="800"><br/>
+<img src="/assets/images/myosa_subsurface_monitor/myosa-wearable.jpg" width="800"><br/>
 <i>MYOSA Wearable Node Hardware Architecture: ESP32 Core, BMP180 Barometer, MPU6050 IMU, APDS9960 Optical Sensor, and HW-763 Touch Controller</i>
 </p>
 
