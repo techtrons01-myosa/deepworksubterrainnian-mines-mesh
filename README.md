@@ -92,7 +92,6 @@ The system continuously captures, fuses, and relays environmental, spatial, and 
 <video controls width="100%">
 <source src="./assets/video/local.mp4" type="video/mp4">
 </video>
- https://github.com/user-attachments/assets/d1f00b32-e3f3-4647-91a7-9ac7aa265f7d
 <i>Working of Dashboard</i>
 </p>
 <p>
