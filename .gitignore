@@ -1,0 +1,18 @@
+﻿# Dependencies
+node_modules/
+package-lock.json
+
+# Builds & Binaries
+build/
+dist/
+*.bin
+*.elf
+*.hex
+
+# Logs & Runtime files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
