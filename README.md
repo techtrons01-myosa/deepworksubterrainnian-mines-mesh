@@ -90,7 +90,7 @@ The system continuously captures, fuses, and relays environmental, spatial, and 
 
 <p>
 <video controls width="100%">
-<source src="/assets/video/local.mp4" type="video/mp4">
+<source src="./assets/video/local.mp4" type="video/mp4">
 </video>
 <i>Working of Dashboard</i>
 </p>
@@ -98,14 +98,14 @@ The system continuously captures, fuses, and relays environmental, spatial, and 
 </video>
 <p>
 <video controls width="100%">
-<source src="/assets/video/presentation.mp4" type="video/mp4">
+<source src="./assets/video/presentation.mp4" type="video/mp4">
 </video>
 <i>Working of Prototype</i>
 </p>
 <p>
 </video>
 <video controls width="100%">
-<source src="/assets/video/extra.mp4" type="video/mp4">
+<source src="./assets/video/extra.mp4" type="video/mp4">
 </video>
 <i>Myosa OLED Display</i>
 </p>
