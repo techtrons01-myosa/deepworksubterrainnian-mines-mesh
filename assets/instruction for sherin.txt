@@ -1,2 +1,0 @@
-change cover-image.jpg & myosa-wearable-hardware.jpg
-delete this after edit and update in wtsp
