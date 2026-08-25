@@ -365,17 +365,3 @@ node backend/server.js
 
 ---
 
-## License
-
-This project is open-source and released under the **MIT License** — permitting unrestricted academic, research, commercial, and industrial deployment.
-
----
-
-## Contribution Notes
-
-We actively encourage feedback, hardware expansions, and software contributions from the community:
-1. **Fork the Repository:** Create a personal fork on GitHub.
-2. **Create a Feature Branch:** `git checkout -b feature/environmental-gas-monitoring`
-3. **Commit Tested Changes:** `git commit -m 'Implement MQ-4 methane and MQ-7 CO gas sensor telemetry'`
-4. **Push to Your Branch:** `git push origin feature/environmental-gas-monitoring`
-5. **Submit a Pull Request:** Describe the hardware requirements and verification testing conducted.
