@@ -2,7 +2,7 @@
 **PublishDate:** 2026-08-25 <br>
 **Title:** "DeepWorks: Resilient Sub-surface Mining Telemetry & Miner Safety Mesh Network"<br>
 **Excerpt:** "An industrial-grade, GPS-denied subsurface IoT mesh network and live tactical telemetry monitoring system built on MYOSA ESP32 wearable nodes, a secondary ESP32 mesh emulation relay node, an ESP32-S3 central coordinator gateway, and an interactive real-time command dashboard."<br>
-**Image:**<img src="deepworks-cover-banner.jpg" width="800"><br/>
+**Image:**<img src="cover-image.jpg" width="800"><br/>
 <br>
 **Tags:**
 - ESP32
@@ -58,7 +58,7 @@ The system continuously captures, fuses, and relays environmental, spatial, and 
 ### Images
 
 <p align="center">
-<img src="/assets/images/myosa_subsurface_monitor/deepworks-cover-banner.jpg" width="800"><br/>
+<img src="deepworks-cover-banner.jpg" width="800"><br/>
 <i>DeepWorks Subsurface Mesh Network: Multi-Node Telemetry Relay across Deep Mining Tunnels to the Surface Control Center</i>
 </p>
 
@@ -68,29 +68,29 @@ The system continuously captures, fuses, and relays environmental, spatial, and 
 </p>
 
 <p align="center">
-<img src="/assets/images/myosa_subsurface_monitor/deepworks-dashboard-live.png" width="800"><br/>
+<img src="deepworks-dashboard-live.png" width="800"><br/>
 <i>DeepWorks Central Surface Command Center — Live Miner Node Registry, Real-time Sensor Metrics, and Dynamic Link Health</i>
 </p>
 
 <p align="center">
-<img src="/assets/images/myosa_subsurface_monitor/subsurface-mesh-map.png" width="800"><br/>
+<img src="subsurface-mesh-map.png" width="800"><br/>
 <i>Real-time 2.5D Subsurface Tunnel Network Map & GPS-Denied Relative Spatial Positioning Grid</i>
 </p>
 
 <p align="center">
-<img src="/assets/images/myosa_subsurface_monitor/myosa-wearable-hardware.jpg" width="800"><br/>
+<img src="myosa-wearable-hardware.jpg" width="800"><br/>
 <i>MYOSA Wearable Node Hardware Architecture: ESP32 Core, BMP180 Barometer, MPU6050 IMU, APDS9960 Optical Sensor, and HW-763 Touch Controller</i>
 </p>
 
 <p align="center">
-<img src="/assets/images/myosa_subsurface_monitor/hazard-monitoring-charts.png" width="800"><br/>
+<img src="hazard-monitoring-charts.png" width="800"><br/>
 <i>Real-time Sub-surface Telemetry Charts: Atmospheric Pressure, Depth Profile, Kinematic Acceleration, and RF Link Quality</i>
 </p>
 
 ### Videos
 <p>
 <video controls width="100%">
-<source src="./assets/video/local.mp4" type="video/mp4">
+<source src="local.mp4" type="video/mp4">
 </video>
 <i>Working of Dashboard</i>
 </p>
@@ -98,14 +98,14 @@ The system continuously captures, fuses, and relays environmental, spatial, and 
 </video>
 <p>
 <video controls width="100%">
-<source src="./assets/video/presentation.mp4" type="video/mp4">
+<source src="presentation.mp4" type="video/mp4">
 </video>
 <i>Working of Prototype</i>
 </p>
 <p>
 </video>
 <video controls width="100%">
-<source src="./assets/video/extra.mp4" type="video/mp4">
+<source src="extra.mp4" type="video/mp4">
 </video>
 <i>Myosa OLED Display</i>
 </p>
