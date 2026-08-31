@@ -63,7 +63,7 @@ The system continuously captures, fuses, and relays environmental, spatial, and 
 </p>
 
 <p align="center">
-<img src="/assets/images/myosa_subsurface_monitor/cover-image.jpg" width="800"><br/>
+<img src="cover-image.jpg" width="800"><br/>
 <i>DeepWorks Industrial Miner Wearable Badge based on MYOSA ESP32 with OLED Display, Multi-Sensor Suite, and Capacitive Safety Touch</i>
 </p>
 
