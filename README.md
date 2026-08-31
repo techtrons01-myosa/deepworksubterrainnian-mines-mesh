@@ -2,7 +2,7 @@
 **PublishDate:** 2026-08-25 <br>
 **Title:** "DeepWorks: Resilient Sub-surface Mining Telemetry & Miner Safety Mesh Network"<br>
 **Excerpt:** "An industrial-grade, GPS-denied subsurface IoT mesh network and live tactical telemetry monitoring system built on MYOSA ESP32 wearable nodes, a secondary ESP32 mesh emulation relay node, an ESP32-S3 central coordinator gateway, and an interactive real-time command dashboard."<br>
-**Image:** myosa_subsurface_monitor/deepworks-cover-banner.jpg
+**Image:** <img src="cover-image.jpg" width="800"><br/>
 <br>
 **Tags:**
 - ESP32
