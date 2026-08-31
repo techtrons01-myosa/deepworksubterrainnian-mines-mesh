@@ -293,21 +293,10 @@ node backend/server.js
 ## File Structure
 
 ```
-/myosa
+techtrons01-myosa/deepworksubterrainnian-mines-mesh
 │
 ├── assets/
-│   ├── images/
-│   │   └── myosa_subsurface_monitor/
-│   │       ├── cover-image.jpg
-│   │       ├── deepworks-cover-banner.jpg
-│   │       ├── deepworks-dashboard-live.png
-│   │       ├── deepworks-logo.jpg
-│   │       ├── hazard-monitoring-charts.png
-│   │       ├── myosa-wearable-hardware.jpg
-│   │       └── subsurface-mesh-map.png
-│   │
-│   └── video/
-│       └── myosa-subsurface-monitor-demo.mp4
+│   └── ... (old assets retained for README/reference)
 │
 ├── backend/
 │   ├── alertManager.js
@@ -321,7 +310,6 @@ node backend/server.js
 │   └── server.js
 │
 ├── firmware/
-│   │
 │   ├── gateway_node/
 │   │   └── 3_GatewayNode.ino
 │   │
@@ -375,9 +363,21 @@ node backend/server.js
 │
 ├── .gitignore
 ├── DeepWorks.bat
+├── DeepWorks_Dev.bat
 ├── Launch_DeepWorks.vbs
-├── myosa-subsurface-monitor.md
-└── README.md
+├── README.md
+├── cover-image.jpg
+├── deepworks-cover-banner.jpg
+├── deepworks-dashboard-live.png
+├── deepworks-logo.jpg
+├── deepworksubterranean-mines-mesh.md
+├── extra.mp4
+├── hazard-monitoring-charts.png
+├── local.mp4
+├── myosa-wearable-hardware.jpg
+├── package.json
+├── presentation.mp4
+└── subsurface-mesh-map.png
 ```
 
 ---
