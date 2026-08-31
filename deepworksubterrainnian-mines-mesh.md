@@ -286,7 +286,7 @@ node backend/server.js
 ```
 
 ---
-
+```
 ## File Structure
 techtrons01-myosa/deepworksubterrainnian-mines-mesh
 │
@@ -467,6 +467,6 @@ techtrons01-myosa/deepworksubterrainnian-mines-mesh
 ├── package.json
 ├── presentation.mp4
 └── subsurface-mesh-map.png
-
+```
 ---
 
