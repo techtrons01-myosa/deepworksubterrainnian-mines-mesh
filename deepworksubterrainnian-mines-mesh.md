@@ -288,9 +288,7 @@ node backend/server.js
 ---
 
 ## File Structure
-
-```
-/myosa
+techtrons01-myosa/deepworksubterrainnian-mines-mesh
 │
 ├── assets/
 │   ├── images/
@@ -305,7 +303,6 @@ node backend/server.js
 │   │
 │   └── video/
 │       └── myosa-subsurface-monitor-demo.mp4
-│
 ├── backend/
 │   ├── alertManager.js
 │   ├── db.js
@@ -318,7 +315,6 @@ node backend/server.js
 │   └── server.js
 │
 ├── firmware/
-│   │
 │   ├── gateway_node/
 │   │   └── 3_GatewayNode.ino
 │   │
@@ -372,10 +368,105 @@ node backend/server.js
 │
 ├── .gitignore
 ├── DeepWorks.bat
+├── DeepWorks_Dev.bat
 ├── Launch_DeepWorks.vbs
-├── myosa-subsurface-monitor.md
-└── README.md
-```
+├── README.md
+├── cover-image.jpg
+├── deepworks-cover-banner.jpg
+├── deepworks-dashboard-live.png
+├── deepworks-logo.jpg
+├── deepworksubterranean-mines-mesh.md
+├── extra.mp4
+├── hazard-monitoring-charts.png
+├── local.mp4
+├── myosa-wearable-hardware.jpg
+├── package.json
+├── presentation.mp4
+└── subsurface-mesh-map.pngtechtrons01-myosa/
+│
+├── assets/
+│   └── ... (old assets retained for README/reference)
+│
+├── backend/
+│   ├── alertManager.js
+│   ├── db.js
+│   ├── healthMonitor.js
+│   ├── meshTopology.js
+│   ├── package.json
+│   ├── routes/
+│   │   └── api.js
+│   ├── serialGateway.js
+│   └── server.js
+│
+├── firmware/
+│   ├── gateway_node/
+│   │   └── 3_GatewayNode.ino
+│   │
+│   └── wearable_node/
+│       ├── 1_ScanNearbyWiFi.ino
+│       ├── alert_manager.cpp
+│       ├── alert_manager.h
+│       ├── config.h
+│       ├── display_manager.cpp
+│       ├── display_manager.h
+│       ├── locator_mode.cpp
+│       ├── locator_mode.h
+│       ├── mesh_manager.cpp
+│       ├── mesh_manager.h
+│       ├── sensor_manager.cpp
+│       ├── sensor_manager.h
+│       ├── system_manager.cpp
+│       ├── system_manager.h
+│       ├── telemetry_manager.cpp
+│       ├── telemetry_manager.h
+│       └── types.h
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── AlertPanel.jsx
+│   │   │   ├── ChartPanel.jsx
+│   │   │   ├── Dashboard.jsx
+│   │   │   ├── LinkedNodesModal.jsx
+│   │   │   ├── NetworkMap.jsx
+│   │   │   ├── NodeDetail.jsx
+│   │   │   ├── NodeTable.jsx
+│   │   │   ├── SettingsModal.jsx
+│   │   │   ├── Sidebar.jsx
+│   │   │   └── StatusBadge.jsx
+│   │   │
+│   │   ├── hooks/
+│   │   │   └── useWebSocket.js
+│   │   │
+│   │   ├── utils/
+│   │   │   ├── audioAlert.js
+│   │   │   └── formatters.js
+│   │   │
+│   │   ├── App.jsx
+│   │   ├── index.css
+│   │   └── main.jsx
+│   │
+│   ├── index.html
+│   ├── package.json
+│   └── vite.config.js
+│
+├── .gitignore
+├── DeepWorks.bat
+├── DeepWorks_Dev.bat
+├── Launch_DeepWorks.vbs
+├── README.md
+├── cover-image.jpg
+├── deepworks-cover-banner.jpg
+├── deepworks-dashboard-live.png
+├── deepworks-logo.jpg
+├── deepworksubterranean-mines-mesh.md
+├── extra.mp4
+├── hazard-monitoring-charts.png
+├── local.mp4
+├── myosa-wearable-hardware.jpg
+├── package.json
+├── presentation.mp4
+└── subsurface-mesh-map.png
 
 ---
 
