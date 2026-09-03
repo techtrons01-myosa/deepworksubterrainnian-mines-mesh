@@ -89,21 +89,18 @@ The system continuously captures, fuses, and relays environmental, spatial, and 
 
 ### Videos
 <p>
-<video src="local.mp4" type="video/mp4" controls width="100%">
-</video>
+<video src="./local.mp4" controls width="100%"></video>
 <i>Working of Dashboard</i>
 </p>
 <p>
 </video>
 <p>
-<video src="presentation.mp4" type="video/mp4" controls width="100%">
-</video>
+<video src="./presentation.mp4" controls width="100%"></video>
 <i>Working of Prototype</i>
 </p>
 <p>
 </video>
-<video src="extra.mp4" type="video/mp4" controls width="100%">
-</video>
+<video src="./extra.mp4" controls width="100%"></video>
 <i>Myosa OLED Display</i>
 </p>
 ---
